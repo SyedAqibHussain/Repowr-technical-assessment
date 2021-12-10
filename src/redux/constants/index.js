@@ -1,0 +1,12 @@
+// user constants
+export const GET_USERS_LIST_REQUEST = 'GET_USERS_LIST_REQUEST';
+export const GET_USERS_LIST_SUCCESS = 'GET_USERS_LIST_SUCCESS';
+export const GET_USERS_LIST_ERROR = 'GET_USERS_LIST_ERROR';
+export const UPDATE_USERS_LIST = 'UPDATE_USERS_LIST';
+export const GET_SELECTED_USER = 'GET_SELECTED_USER';
+
+// group constants
+export const GET_GROUPS_LIST = 'GET_GROUPS_LIST';
+export const LEAVE_GROUP = 'LEAVE_GROUP';
+export const JOIN_GROUP = 'JOIN_GROUP';
+export const CREATE_GROUP = 'CREATE_GROUP';
